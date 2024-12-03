@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity_name">Users</string>
+    <string name="content_desc_user_avatar">User Avatar</string>
+    <string name="content_desc_failed_to_load_users">Failed to load users!</string>
+    <string name="error_msg_fail_to_load_users">Unable to load users</string>
+    <string name="error_btn_retry">Retry</string>
+</resources>

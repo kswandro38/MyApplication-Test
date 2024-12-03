@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="info_icon_size">50dp</dimen>
+    <dimen name="user_image_size">50dp</dimen>
+
+<!--    Margins-->
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="margin_quarter">4dp</dimen>
+</resources>
